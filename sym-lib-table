@@ -107,4 +107,5 @@
   (lib (name Onion)(type Legacy)(uri ${KIPRJMOD}/lib_sch/onion.lib)(options "")(descr ""))
   (lib (name Q_NMOSMod)(type Legacy)(uri ${KIPRJMOD}/lib_sch/q_nmos_sssgdddd.lib)(options "")(descr ""))
   (lib (name TPS62135)(type Legacy)(uri /home/scott/projects/omegaPoE/TPS62135.lib)(options "")(descr ""))
+  (lib (name d_bridge_apam)(type Legacy)(uri ${KIPRJMOD}/lib_sch/d_bridge_a+a-.lib)(options "")(descr ""))
 )
