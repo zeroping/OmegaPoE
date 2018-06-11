@@ -2621,4 +2621,19 @@ Wire Wire Line
 Connection ~ 6950 7500
 Wire Wire Line
 	6950 7500 6950 7550
+Text Notes 2200 7950 0    50   ~ 0
+Consider using JXD0-0010NL, which includes bridges
+$Comp
+L device:C_Small C32
+U 1 1 5B20045A
+P 10500 1100
+F 0 "C32" H 10510 1170 50  0000 L CNN
+F 1 "DNP" H 10510 1020 50  0000 L CNN
+F 2 "Capacitors_SMD:C_1206" H 10500 1100 60  0001 C CNN
+F 3 "" H 10500 1100 60  0000 C CNN
+F 4 " " H 10500 1100 60  0001 C CNN "Manufacturer"
+F 5 "DNP" H 10500 1100 60  0001 C CNN "MPN"
+	1    10500 1100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
