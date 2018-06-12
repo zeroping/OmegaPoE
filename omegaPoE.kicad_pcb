@@ -74,7 +74,7 @@
     (solder_mask_min_width 0.1)
     (aux_axis_origin 0 0)
     (grid_origin 86.1 57.7)
-    (visible_elements FFFDEF7F)
+    (visible_elements FFFCEF7F)
     (pcbplotparams
       (layerselection 0x3d0fc_ffffffff)
       (usegerberextensions true)
