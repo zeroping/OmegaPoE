@@ -14,9 +14,7 @@ This board is designed to be as small as possible while still providing an isola
 ## Status
 Four prototype boards have been built, and they work. There are some issues to work out and fixes to commit, but here's the v1 board run:
 
-<img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_assembled_iso.jpg" width="45%">
-<img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_top_view.jpg" width="45%">
+<img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_assembled_iso.jpg" width="45%"><img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_top_view.jpg" width="45%">
 
+<img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_unassembled_top.jpg" width="45%"><img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_unassembled_bottom.jpg" width="45%">
 
-<img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_unassembled_top.jpg" width="45%">
-<img src="https://raw.githubusercontent.com/zeroping/OmegaPoE/master/renders/photo_unassembled_bottom.jpg" width="45%">
