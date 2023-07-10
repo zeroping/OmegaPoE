@@ -10,7 +10,7 @@ The Onion Omega is a cheap ($10.75) linux single-board computer, and supports Wi
 
 This board is designed to be as small as possible while still providing an isolated 15-watt PoE supply. The 48 VDC power from PoE is converted into 12 V using a TI LM5070 in a flyback configuration. The 12 V is further stepped down to 5 V and 3.3 V using two TPS62135x DC-DC buck converters. 12 V was chosen to allow running 12V perhierals off of the board, such as 12V LED lighing strips. 
 
-![alt text](renders/omegaPoE2.png "Title")
+![alt text](renders/omegaPoE3.png "Title")
 
 ## Status
 Four prototype boards have been built, and they work. There are some issues to work out and fixes to commit, but here's the v1 board run:
